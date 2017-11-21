@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp-29-day-two-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register --require babel-polyfill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robocopkaka/bootcamp-29-day-two-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robocopkaka/bootcamp-29-day-two-tasks/issues"
+  },
+  "homepage": "https://github.com/robocopkaka/bootcamp-29-day-two-tasks#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2"
+  }
+}
